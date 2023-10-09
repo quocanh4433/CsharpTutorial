@@ -1,0 +1,14 @@
+D:\QA\C#\06. Tinh ke thua\bin\Debug\net7.0\06. Tinh ke thua.exe
+D:\QA\C#\06. Tinh ke thua\bin\Debug\net7.0\06. Tinh ke thua.deps.json
+D:\QA\C#\06. Tinh ke thua\bin\Debug\net7.0\06. Tinh ke thua.runtimeconfig.json
+D:\QA\C#\06. Tinh ke thua\bin\Debug\net7.0\06. Tinh ke thua.dll
+D:\QA\C#\06. Tinh ke thua\bin\Debug\net7.0\06. Tinh ke thua.pdb
+D:\QA\C#\06. Tinh ke thua\obj\Debug\net7.0\06. Tinh ke thua.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\06. Tinh ke thua\obj\Debug\net7.0\06. Tinh ke thua.AssemblyInfoInputs.cache
+D:\QA\C#\06. Tinh ke thua\obj\Debug\net7.0\06. Tinh ke thua.AssemblyInfo.cs
+D:\QA\C#\06. Tinh ke thua\obj\Debug\net7.0\06. Tinh ke thua.csproj.CoreCompileInputs.cache
+D:\QA\C#\06. Tinh ke thua\obj\Debug\net7.0\06. Tinh ke thua.dll
+D:\QA\C#\06. Tinh ke thua\obj\Debug\net7.0\refint\06. Tinh ke thua.dll
+D:\QA\C#\06. Tinh ke thua\obj\Debug\net7.0\06. Tinh ke thua.pdb
+D:\QA\C#\06. Tinh ke thua\obj\Debug\net7.0\06. Tinh ke thua.genruntimeconfig.cache
+D:\QA\C#\06. Tinh ke thua\obj\Debug\net7.0\ref\06. Tinh ke thua.dll

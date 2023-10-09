@@ -1,0 +1,14 @@
+D:\QA\C#\04. Struct-Enum\obj\Debug\net7.0\04. Struct-Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\04. Struct-Enum\obj\Debug\net7.0\04. Struct-Enum.AssemblyInfoInputs.cache
+D:\QA\C#\04. Struct-Enum\obj\Debug\net7.0\04. Struct-Enum.AssemblyInfo.cs
+D:\QA\C#\04. Struct-Enum\obj\Debug\net7.0\04. Struct-Enum.csproj.CoreCompileInputs.cache
+D:\QA\C#\04. Struct-Enum\bin\Debug\net7.0\04. Struct-Enum.exe
+D:\QA\C#\04. Struct-Enum\bin\Debug\net7.0\04. Struct-Enum.deps.json
+D:\QA\C#\04. Struct-Enum\bin\Debug\net7.0\04. Struct-Enum.runtimeconfig.json
+D:\QA\C#\04. Struct-Enum\bin\Debug\net7.0\04. Struct-Enum.dll
+D:\QA\C#\04. Struct-Enum\bin\Debug\net7.0\04. Struct-Enum.pdb
+D:\QA\C#\04. Struct-Enum\obj\Debug\net7.0\04. Struct-Enum.dll
+D:\QA\C#\04. Struct-Enum\obj\Debug\net7.0\refint\04. Struct-Enum.dll
+D:\QA\C#\04. Struct-Enum\obj\Debug\net7.0\04. Struct-Enum.pdb
+D:\QA\C#\04. Struct-Enum\obj\Debug\net7.0\04. Struct-Enum.genruntimeconfig.cache
+D:\QA\C#\04. Struct-Enum\obj\Debug\net7.0\ref\04. Struct-Enum.dll
