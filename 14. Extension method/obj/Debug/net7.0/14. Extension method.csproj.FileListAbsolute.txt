@@ -1,0 +1,14 @@
+D:\QA\C#\14. Extension method\bin\Debug\net7.0\14. Extension method.exe
+D:\QA\C#\14. Extension method\bin\Debug\net7.0\14. Extension method.deps.json
+D:\QA\C#\14. Extension method\bin\Debug\net7.0\14. Extension method.runtimeconfig.json
+D:\QA\C#\14. Extension method\bin\Debug\net7.0\14. Extension method.dll
+D:\QA\C#\14. Extension method\bin\Debug\net7.0\14. Extension method.pdb
+D:\QA\C#\14. Extension method\obj\Debug\net7.0\14. Extension method.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\14. Extension method\obj\Debug\net7.0\14. Extension method.AssemblyInfoInputs.cache
+D:\QA\C#\14. Extension method\obj\Debug\net7.0\14. Extension method.AssemblyInfo.cs
+D:\QA\C#\14. Extension method\obj\Debug\net7.0\14. Extension method.csproj.CoreCompileInputs.cache
+D:\QA\C#\14. Extension method\obj\Debug\net7.0\14. Extension method.dll
+D:\QA\C#\14. Extension method\obj\Debug\net7.0\refint\14. Extension method.dll
+D:\QA\C#\14. Extension method\obj\Debug\net7.0\14. Extension method.pdb
+D:\QA\C#\14. Extension method\obj\Debug\net7.0\14. Extension method.genruntimeconfig.cache
+D:\QA\C#\14. Extension method\obj\Debug\net7.0\ref\14. Extension method.dll

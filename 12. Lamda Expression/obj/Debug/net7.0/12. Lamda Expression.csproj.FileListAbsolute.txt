@@ -1,0 +1,14 @@
+D:\QA\C#\12. Lamda Expression\bin\Debug\net7.0\12. Lamda Expression.exe
+D:\QA\C#\12. Lamda Expression\bin\Debug\net7.0\12. Lamda Expression.deps.json
+D:\QA\C#\12. Lamda Expression\bin\Debug\net7.0\12. Lamda Expression.runtimeconfig.json
+D:\QA\C#\12. Lamda Expression\bin\Debug\net7.0\12. Lamda Expression.dll
+D:\QA\C#\12. Lamda Expression\bin\Debug\net7.0\12. Lamda Expression.pdb
+D:\QA\C#\12. Lamda Expression\obj\Debug\net7.0\12. Lamda Expression.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\12. Lamda Expression\obj\Debug\net7.0\12. Lamda Expression.AssemblyInfoInputs.cache
+D:\QA\C#\12. Lamda Expression\obj\Debug\net7.0\12. Lamda Expression.AssemblyInfo.cs
+D:\QA\C#\12. Lamda Expression\obj\Debug\net7.0\12. Lamda Expression.csproj.CoreCompileInputs.cache
+D:\QA\C#\12. Lamda Expression\obj\Debug\net7.0\12. Lamda Expression.dll
+D:\QA\C#\12. Lamda Expression\obj\Debug\net7.0\refint\12. Lamda Expression.dll
+D:\QA\C#\12. Lamda Expression\obj\Debug\net7.0\12. Lamda Expression.pdb
+D:\QA\C#\12. Lamda Expression\obj\Debug\net7.0\12. Lamda Expression.genruntimeconfig.cache
+D:\QA\C#\12. Lamda Expression\obj\Debug\net7.0\ref\12. Lamda Expression.dll

@@ -1,0 +1,14 @@
+D:\QA\C#\07. Namspace - partial\bin\Debug\net7.0\07. Namspace - partial.exe
+D:\QA\C#\07. Namspace - partial\bin\Debug\net7.0\07. Namspace - partial.deps.json
+D:\QA\C#\07. Namspace - partial\bin\Debug\net7.0\07. Namspace - partial.runtimeconfig.json
+D:\QA\C#\07. Namspace - partial\bin\Debug\net7.0\07. Namspace - partial.dll
+D:\QA\C#\07. Namspace - partial\bin\Debug\net7.0\07. Namspace - partial.pdb
+D:\QA\C#\07. Namspace - partial\obj\Debug\net7.0\07. Namspace - partial.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\07. Namspace - partial\obj\Debug\net7.0\07. Namspace - partial.AssemblyInfoInputs.cache
+D:\QA\C#\07. Namspace - partial\obj\Debug\net7.0\07. Namspace - partial.AssemblyInfo.cs
+D:\QA\C#\07. Namspace - partial\obj\Debug\net7.0\07. Namspace - partial.csproj.CoreCompileInputs.cache
+D:\QA\C#\07. Namspace - partial\obj\Debug\net7.0\07. Namspace - partial.dll
+D:\QA\C#\07. Namspace - partial\obj\Debug\net7.0\refint\07. Namspace - partial.dll
+D:\QA\C#\07. Namspace - partial\obj\Debug\net7.0\07. Namspace - partial.pdb
+D:\QA\C#\07. Namspace - partial\obj\Debug\net7.0\07. Namspace - partial.genruntimeconfig.cache
+D:\QA\C#\07. Namspace - partial\obj\Debug\net7.0\ref\07. Namspace - partial.dll

@@ -1,0 +1,14 @@
+D:\QA\C#\09. Anonymous - Dynamic\bin\Debug\net7.0\09. Anonymous - Dynamic.exe
+D:\QA\C#\09. Anonymous - Dynamic\bin\Debug\net7.0\09. Anonymous - Dynamic.deps.json
+D:\QA\C#\09. Anonymous - Dynamic\bin\Debug\net7.0\09. Anonymous - Dynamic.runtimeconfig.json
+D:\QA\C#\09. Anonymous - Dynamic\bin\Debug\net7.0\09. Anonymous - Dynamic.dll
+D:\QA\C#\09. Anonymous - Dynamic\bin\Debug\net7.0\09. Anonymous - Dynamic.pdb
+D:\QA\C#\09. Anonymous - Dynamic\obj\Debug\net7.0\09. Anonymous - Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\09. Anonymous - Dynamic\obj\Debug\net7.0\09. Anonymous - Dynamic.AssemblyInfoInputs.cache
+D:\QA\C#\09. Anonymous - Dynamic\obj\Debug\net7.0\09. Anonymous - Dynamic.AssemblyInfo.cs
+D:\QA\C#\09. Anonymous - Dynamic\obj\Debug\net7.0\09. Anonymous - Dynamic.csproj.CoreCompileInputs.cache
+D:\QA\C#\09. Anonymous - Dynamic\obj\Debug\net7.0\09. Anonymous - Dynamic.dll
+D:\QA\C#\09. Anonymous - Dynamic\obj\Debug\net7.0\refint\09. Anonymous - Dynamic.dll
+D:\QA\C#\09. Anonymous - Dynamic\obj\Debug\net7.0\09. Anonymous - Dynamic.pdb
+D:\QA\C#\09. Anonymous - Dynamic\obj\Debug\net7.0\09. Anonymous - Dynamic.genruntimeconfig.cache
+D:\QA\C#\09. Anonymous - Dynamic\obj\Debug\net7.0\ref\09. Anonymous - Dynamic.dll

@@ -1,0 +1,14 @@
+D:\QA\C#\11. Delegate Action, Func\bin\Debug\net7.0\11. Delegate Action, Func.exe
+D:\QA\C#\11. Delegate Action, Func\bin\Debug\net7.0\11. Delegate Action, Func.deps.json
+D:\QA\C#\11. Delegate Action, Func\bin\Debug\net7.0\11. Delegate Action, Func.runtimeconfig.json
+D:\QA\C#\11. Delegate Action, Func\bin\Debug\net7.0\11. Delegate Action, Func.dll
+D:\QA\C#\11. Delegate Action, Func\bin\Debug\net7.0\11. Delegate Action, Func.pdb
+D:\QA\C#\11. Delegate Action, Func\obj\Debug\net7.0\11. Delegate Action, Func.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\11. Delegate Action, Func\obj\Debug\net7.0\11. Delegate Action, Func.AssemblyInfoInputs.cache
+D:\QA\C#\11. Delegate Action, Func\obj\Debug\net7.0\11. Delegate Action, Func.AssemblyInfo.cs
+D:\QA\C#\11. Delegate Action, Func\obj\Debug\net7.0\11. Delegate Action, Func.csproj.CoreCompileInputs.cache
+D:\QA\C#\11. Delegate Action, Func\obj\Debug\net7.0\11. Delegate Action, Func.dll
+D:\QA\C#\11. Delegate Action, Func\obj\Debug\net7.0\refint\11. Delegate Action, Func.dll
+D:\QA\C#\11. Delegate Action, Func\obj\Debug\net7.0\11. Delegate Action, Func.pdb
+D:\QA\C#\11. Delegate Action, Func\obj\Debug\net7.0\11. Delegate Action, Func.genruntimeconfig.cache
+D:\QA\C#\11. Delegate Action, Func\obj\Debug\net7.0\ref\11. Delegate Action, Func.dll

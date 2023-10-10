@@ -1,0 +1,14 @@
+D:\QA\C#\10. Virtual Method\bin\Debug\net7.0\10. Virtual Method.exe
+D:\QA\C#\10. Virtual Method\bin\Debug\net7.0\10. Virtual Method.deps.json
+D:\QA\C#\10. Virtual Method\bin\Debug\net7.0\10. Virtual Method.runtimeconfig.json
+D:\QA\C#\10. Virtual Method\bin\Debug\net7.0\10. Virtual Method.dll
+D:\QA\C#\10. Virtual Method\bin\Debug\net7.0\10. Virtual Method.pdb
+D:\QA\C#\10. Virtual Method\obj\Debug\net7.0\10. Virtual Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\10. Virtual Method\obj\Debug\net7.0\10. Virtual Method.AssemblyInfoInputs.cache
+D:\QA\C#\10. Virtual Method\obj\Debug\net7.0\10. Virtual Method.AssemblyInfo.cs
+D:\QA\C#\10. Virtual Method\obj\Debug\net7.0\10. Virtual Method.csproj.CoreCompileInputs.cache
+D:\QA\C#\10. Virtual Method\obj\Debug\net7.0\10. Virtual Method.dll
+D:\QA\C#\10. Virtual Method\obj\Debug\net7.0\refint\10. Virtual Method.dll
+D:\QA\C#\10. Virtual Method\obj\Debug\net7.0\10. Virtual Method.pdb
+D:\QA\C#\10. Virtual Method\obj\Debug\net7.0\10. Virtual Method.genruntimeconfig.cache
+D:\QA\C#\10. Virtual Method\obj\Debug\net7.0\ref\10. Virtual Method.dll

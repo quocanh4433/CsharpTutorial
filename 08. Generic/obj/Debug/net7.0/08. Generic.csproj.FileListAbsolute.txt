@@ -1,0 +1,14 @@
+D:\QA\C#\08. Generic\bin\Debug\net7.0\08. Generic.exe
+D:\QA\C#\08. Generic\bin\Debug\net7.0\08. Generic.deps.json
+D:\QA\C#\08. Generic\bin\Debug\net7.0\08. Generic.runtimeconfig.json
+D:\QA\C#\08. Generic\bin\Debug\net7.0\08. Generic.dll
+D:\QA\C#\08. Generic\bin\Debug\net7.0\08. Generic.pdb
+D:\QA\C#\08. Generic\obj\Debug\net7.0\08. Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\08. Generic\obj\Debug\net7.0\08. Generic.AssemblyInfoInputs.cache
+D:\QA\C#\08. Generic\obj\Debug\net7.0\08. Generic.AssemblyInfo.cs
+D:\QA\C#\08. Generic\obj\Debug\net7.0\08. Generic.csproj.CoreCompileInputs.cache
+D:\QA\C#\08. Generic\obj\Debug\net7.0\08. Generic.dll
+D:\QA\C#\08. Generic\obj\Debug\net7.0\refint\08. Generic.dll
+D:\QA\C#\08. Generic\obj\Debug\net7.0\08. Generic.pdb
+D:\QA\C#\08. Generic\obj\Debug\net7.0\08. Generic.genruntimeconfig.cache
+D:\QA\C#\08. Generic\obj\Debug\net7.0\ref\08. Generic.dll
