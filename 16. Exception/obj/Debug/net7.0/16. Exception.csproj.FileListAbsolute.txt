@@ -1,0 +1,14 @@
+D:\QA\C#\16. Exception\bin\Debug\net7.0\16. Exception.exe
+D:\QA\C#\16. Exception\bin\Debug\net7.0\16. Exception.deps.json
+D:\QA\C#\16. Exception\bin\Debug\net7.0\16. Exception.runtimeconfig.json
+D:\QA\C#\16. Exception\bin\Debug\net7.0\16. Exception.dll
+D:\QA\C#\16. Exception\bin\Debug\net7.0\16. Exception.pdb
+D:\QA\C#\16. Exception\obj\Debug\net7.0\16. Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\16. Exception\obj\Debug\net7.0\16. Exception.AssemblyInfoInputs.cache
+D:\QA\C#\16. Exception\obj\Debug\net7.0\16. Exception.AssemblyInfo.cs
+D:\QA\C#\16. Exception\obj\Debug\net7.0\16. Exception.csproj.CoreCompileInputs.cache
+D:\QA\C#\16. Exception\obj\Debug\net7.0\16. Exception.dll
+D:\QA\C#\16. Exception\obj\Debug\net7.0\refint\16. Exception.dll
+D:\QA\C#\16. Exception\obj\Debug\net7.0\16. Exception.pdb
+D:\QA\C#\16. Exception\obj\Debug\net7.0\16. Exception.genruntimeconfig.cache
+D:\QA\C#\16. Exception\obj\Debug\net7.0\ref\16. Exception.dll

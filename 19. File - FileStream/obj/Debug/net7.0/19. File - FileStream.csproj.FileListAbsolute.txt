@@ -1,0 +1,14 @@
+D:\QA\C#\19. File - FileStream\bin\Debug\net7.0\19. File - FileStream.exe
+D:\QA\C#\19. File - FileStream\bin\Debug\net7.0\19. File - FileStream.deps.json
+D:\QA\C#\19. File - FileStream\bin\Debug\net7.0\19. File - FileStream.runtimeconfig.json
+D:\QA\C#\19. File - FileStream\bin\Debug\net7.0\19. File - FileStream.dll
+D:\QA\C#\19. File - FileStream\bin\Debug\net7.0\19. File - FileStream.pdb
+D:\QA\C#\19. File - FileStream\obj\Debug\net7.0\19. File - FileStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\19. File - FileStream\obj\Debug\net7.0\19. File - FileStream.AssemblyInfoInputs.cache
+D:\QA\C#\19. File - FileStream\obj\Debug\net7.0\19. File - FileStream.AssemblyInfo.cs
+D:\QA\C#\19. File - FileStream\obj\Debug\net7.0\19. File - FileStream.csproj.CoreCompileInputs.cache
+D:\QA\C#\19. File - FileStream\obj\Debug\net7.0\19. File - FileStream.dll
+D:\QA\C#\19. File - FileStream\obj\Debug\net7.0\refint\19. File - FileStream.dll
+D:\QA\C#\19. File - FileStream\obj\Debug\net7.0\19. File - FileStream.pdb
+D:\QA\C#\19. File - FileStream\obj\Debug\net7.0\19. File - FileStream.genruntimeconfig.cache
+D:\QA\C#\19. File - FileStream\obj\Debug\net7.0\ref\19. File - FileStream.dll

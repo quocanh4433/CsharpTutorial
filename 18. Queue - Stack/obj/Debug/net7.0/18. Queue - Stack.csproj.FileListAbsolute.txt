@@ -1,0 +1,14 @@
+D:\QA\C#\18. Queue - Stack\bin\Debug\net7.0\18. Queue - Stack.exe
+D:\QA\C#\18. Queue - Stack\bin\Debug\net7.0\18. Queue - Stack.deps.json
+D:\QA\C#\18. Queue - Stack\bin\Debug\net7.0\18. Queue - Stack.runtimeconfig.json
+D:\QA\C#\18. Queue - Stack\bin\Debug\net7.0\18. Queue - Stack.dll
+D:\QA\C#\18. Queue - Stack\bin\Debug\net7.0\18. Queue - Stack.pdb
+D:\QA\C#\18. Queue - Stack\obj\Debug\net7.0\18. Queue - Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\18. Queue - Stack\obj\Debug\net7.0\18. Queue - Stack.AssemblyInfoInputs.cache
+D:\QA\C#\18. Queue - Stack\obj\Debug\net7.0\18. Queue - Stack.AssemblyInfo.cs
+D:\QA\C#\18. Queue - Stack\obj\Debug\net7.0\18. Queue - Stack.csproj.CoreCompileInputs.cache
+D:\QA\C#\18. Queue - Stack\obj\Debug\net7.0\18. Queue - Stack.dll
+D:\QA\C#\18. Queue - Stack\obj\Debug\net7.0\refint\18. Queue - Stack.dll
+D:\QA\C#\18. Queue - Stack\obj\Debug\net7.0\18. Queue - Stack.pdb
+D:\QA\C#\18. Queue - Stack\obj\Debug\net7.0\18. Queue - Stack.genruntimeconfig.cache
+D:\QA\C#\18. Queue - Stack\obj\Debug\net7.0\ref\18. Queue - Stack.dll

@@ -1,0 +1,14 @@
+D:\QA\C#\15. Finalizer - Destructor\obj\Debug\net7.0\15. Finalizer - Destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\15. Finalizer - Destructor\obj\Debug\net7.0\15. Finalizer - Destructor.AssemblyInfoInputs.cache
+D:\QA\C#\15. Finalizer - Destructor\obj\Debug\net7.0\15. Finalizer - Destructor.AssemblyInfo.cs
+D:\QA\C#\15. Finalizer - Destructor\obj\Debug\net7.0\15. Finalizer - Destructor.csproj.CoreCompileInputs.cache
+D:\QA\C#\15. Finalizer - Destructor\bin\Debug\net7.0\15. Finalizer - Destructor.exe
+D:\QA\C#\15. Finalizer - Destructor\bin\Debug\net7.0\15. Finalizer - Destructor.deps.json
+D:\QA\C#\15. Finalizer - Destructor\bin\Debug\net7.0\15. Finalizer - Destructor.runtimeconfig.json
+D:\QA\C#\15. Finalizer - Destructor\bin\Debug\net7.0\15. Finalizer - Destructor.dll
+D:\QA\C#\15. Finalizer - Destructor\bin\Debug\net7.0\15. Finalizer - Destructor.pdb
+D:\QA\C#\15. Finalizer - Destructor\obj\Debug\net7.0\15. Finalizer - Destructor.dll
+D:\QA\C#\15. Finalizer - Destructor\obj\Debug\net7.0\refint\15. Finalizer - Destructor.dll
+D:\QA\C#\15. Finalizer - Destructor\obj\Debug\net7.0\15. Finalizer - Destructor.pdb
+D:\QA\C#\15. Finalizer - Destructor\obj\Debug\net7.0\15. Finalizer - Destructor.genruntimeconfig.cache
+D:\QA\C#\15. Finalizer - Destructor\obj\Debug\net7.0\ref\15. Finalizer - Destructor.dll

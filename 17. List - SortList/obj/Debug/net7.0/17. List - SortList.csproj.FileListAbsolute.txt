@@ -1,0 +1,14 @@
+D:\QA\C#\17. List - SortList\bin\Debug\net7.0\17. List - SortList.exe
+D:\QA\C#\17. List - SortList\bin\Debug\net7.0\17. List - SortList.deps.json
+D:\QA\C#\17. List - SortList\bin\Debug\net7.0\17. List - SortList.runtimeconfig.json
+D:\QA\C#\17. List - SortList\bin\Debug\net7.0\17. List - SortList.dll
+D:\QA\C#\17. List - SortList\bin\Debug\net7.0\17. List - SortList.pdb
+D:\QA\C#\17. List - SortList\obj\Debug\net7.0\17. List - SortList.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\17. List - SortList\obj\Debug\net7.0\17. List - SortList.AssemblyInfoInputs.cache
+D:\QA\C#\17. List - SortList\obj\Debug\net7.0\17. List - SortList.AssemblyInfo.cs
+D:\QA\C#\17. List - SortList\obj\Debug\net7.0\17. List - SortList.csproj.CoreCompileInputs.cache
+D:\QA\C#\17. List - SortList\obj\Debug\net7.0\17. List - SortList.dll
+D:\QA\C#\17. List - SortList\obj\Debug\net7.0\refint\17. List - SortList.dll
+D:\QA\C#\17. List - SortList\obj\Debug\net7.0\17. List - SortList.pdb
+D:\QA\C#\17. List - SortList\obj\Debug\net7.0\17. List - SortList.genruntimeconfig.cache
+D:\QA\C#\17. List - SortList\obj\Debug\net7.0\ref\17. List - SortList.dll
