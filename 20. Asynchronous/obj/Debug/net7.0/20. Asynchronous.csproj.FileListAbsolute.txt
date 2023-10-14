@@ -1,0 +1,14 @@
+D:\QA\C#\20. Asynchronous\bin\Debug\net7.0\20. Asynchronous.exe
+D:\QA\C#\20. Asynchronous\bin\Debug\net7.0\20. Asynchronous.deps.json
+D:\QA\C#\20. Asynchronous\bin\Debug\net7.0\20. Asynchronous.runtimeconfig.json
+D:\QA\C#\20. Asynchronous\bin\Debug\net7.0\20. Asynchronous.dll
+D:\QA\C#\20. Asynchronous\bin\Debug\net7.0\20. Asynchronous.pdb
+D:\QA\C#\20. Asynchronous\obj\Debug\net7.0\20. Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\20. Asynchronous\obj\Debug\net7.0\20. Asynchronous.AssemblyInfoInputs.cache
+D:\QA\C#\20. Asynchronous\obj\Debug\net7.0\20. Asynchronous.AssemblyInfo.cs
+D:\QA\C#\20. Asynchronous\obj\Debug\net7.0\20. Asynchronous.csproj.CoreCompileInputs.cache
+D:\QA\C#\20. Asynchronous\obj\Debug\net7.0\20. Asynchronous.dll
+D:\QA\C#\20. Asynchronous\obj\Debug\net7.0\refint\20. Asynchronous.dll
+D:\QA\C#\20. Asynchronous\obj\Debug\net7.0\20. Asynchronous.pdb
+D:\QA\C#\20. Asynchronous\obj\Debug\net7.0\20. Asynchronous.genruntimeconfig.cache
+D:\QA\C#\20. Asynchronous\obj\Debug\net7.0\ref\20. Asynchronous.dll
