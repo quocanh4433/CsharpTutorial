@@ -1,0 +1,14 @@
+D:\QA\C#\22. Class Type - Attribute\bin\Debug\net7.0\22. Class Type - Attribute.exe
+D:\QA\C#\22. Class Type - Attribute\bin\Debug\net7.0\22. Class Type - Attribute.deps.json
+D:\QA\C#\22. Class Type - Attribute\bin\Debug\net7.0\22. Class Type - Attribute.runtimeconfig.json
+D:\QA\C#\22. Class Type - Attribute\bin\Debug\net7.0\22. Class Type - Attribute.dll
+D:\QA\C#\22. Class Type - Attribute\bin\Debug\net7.0\22. Class Type - Attribute.pdb
+D:\QA\C#\22. Class Type - Attribute\obj\Debug\net7.0\22. Class Type - Attribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\22. Class Type - Attribute\obj\Debug\net7.0\22. Class Type - Attribute.AssemblyInfoInputs.cache
+D:\QA\C#\22. Class Type - Attribute\obj\Debug\net7.0\22. Class Type - Attribute.AssemblyInfo.cs
+D:\QA\C#\22. Class Type - Attribute\obj\Debug\net7.0\22. Class Type - Attribute.csproj.CoreCompileInputs.cache
+D:\QA\C#\22. Class Type - Attribute\obj\Debug\net7.0\22. Class Type - Attribute.dll
+D:\QA\C#\22. Class Type - Attribute\obj\Debug\net7.0\refint\22. Class Type - Attribute.dll
+D:\QA\C#\22. Class Type - Attribute\obj\Debug\net7.0\22. Class Type - Attribute.pdb
+D:\QA\C#\22. Class Type - Attribute\obj\Debug\net7.0\22. Class Type - Attribute.genruntimeconfig.cache
+D:\QA\C#\22. Class Type - Attribute\obj\Debug\net7.0\ref\22. Class Type - Attribute.dll

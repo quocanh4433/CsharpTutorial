@@ -1,0 +1,14 @@
+D:\QA\C#\23. Dependency Injection\bin\Debug\net7.0\23. Dependency Injection.exe
+D:\QA\C#\23. Dependency Injection\bin\Debug\net7.0\23. Dependency Injection.deps.json
+D:\QA\C#\23. Dependency Injection\bin\Debug\net7.0\23. Dependency Injection.runtimeconfig.json
+D:\QA\C#\23. Dependency Injection\bin\Debug\net7.0\23. Dependency Injection.dll
+D:\QA\C#\23. Dependency Injection\bin\Debug\net7.0\23. Dependency Injection.pdb
+D:\QA\C#\23. Dependency Injection\obj\Debug\net7.0\23. Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\23. Dependency Injection\obj\Debug\net7.0\23. Dependency Injection.AssemblyInfoInputs.cache
+D:\QA\C#\23. Dependency Injection\obj\Debug\net7.0\23. Dependency Injection.AssemblyInfo.cs
+D:\QA\C#\23. Dependency Injection\obj\Debug\net7.0\23. Dependency Injection.csproj.CoreCompileInputs.cache
+D:\QA\C#\23. Dependency Injection\obj\Debug\net7.0\23. Dependency Injection.dll
+D:\QA\C#\23. Dependency Injection\obj\Debug\net7.0\refint\23. Dependency Injection.dll
+D:\QA\C#\23. Dependency Injection\obj\Debug\net7.0\23. Dependency Injection.pdb
+D:\QA\C#\23. Dependency Injection\obj\Debug\net7.0\23. Dependency Injection.genruntimeconfig.cache
+D:\QA\C#\23. Dependency Injection\obj\Debug\net7.0\ref\23. Dependency Injection.dll

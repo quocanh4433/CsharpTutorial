@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EpFLnSLu8YTjeQQuVcVZ9MnoZDhtPbrbCNOexqOzYxVtl1MElaujeS7Gx7z8Kr2kKqmZkVIEtg+SFupFDs8zXQ==",
+  "success": true,
+  "projectFilePath": "D:\\QA\\C#\\23. Dependency Injection\\23. Dependency Injection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,44 @@
+D:\QA\C#\22. Nuget - Package\Utils\bin\Debug\net7.0\Utils.deps.json
+D:\QA\C#\22. Nuget - Package\Utils\bin\Debug\net7.0\Utils.dll
+D:\QA\C#\22. Nuget - Package\Utils\bin\Debug\net7.0\Utils.pdb
+D:\QA\C#\22. Nuget - Package\Utils\obj\Debug\net7.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\22. Nuget - Package\Utils\obj\Debug\net7.0\Utils.AssemblyInfoInputs.cache
+D:\QA\C#\22. Nuget - Package\Utils\obj\Debug\net7.0\Utils.AssemblyInfo.cs
+D:\QA\C#\22. Nuget - Package\Utils\obj\Debug\net7.0\Utils.csproj.CoreCompileInputs.cache
+D:\QA\C#\22. Nuget - Package\Utils\obj\Debug\net7.0\Utils.dll
+D:\QA\C#\22. Nuget - Package\Utils\obj\Debug\net7.0\refint\Utils.dll
+D:\QA\C#\22. Nuget - Package\Utils\obj\Debug\net7.0\Utils.pdb
+D:\QA\C#\22. Nuget - Package\Utils\obj\Debug\net7.0\ref\Utils.dll
+D:\QA\C#\22. NugetPackage\Utils\bin\Debug\net7.0\Utils.deps.json
+D:\QA\C#\22. NugetPackage\Utils\bin\Debug\net7.0\Utils.dll
+D:\QA\C#\22. NugetPackage\Utils\bin\Debug\net7.0\Utils.pdb
+D:\QA\C#\22. NugetPackage\Utils\obj\Debug\net7.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\22. NugetPackage\Utils\obj\Debug\net7.0\Utils.AssemblyInfoInputs.cache
+D:\QA\C#\22. NugetPackage\Utils\obj\Debug\net7.0\Utils.AssemblyInfo.cs
+D:\QA\C#\22. NugetPackage\Utils\obj\Debug\net7.0\Utils.csproj.CoreCompileInputs.cache
+D:\QA\C#\22. NugetPackage\Utils\obj\Debug\net7.0\Utils.dll
+D:\QA\C#\22. NugetPackage\Utils\obj\Debug\net7.0\refint\Utils.dll
+D:\QA\C#\22. NugetPackage\Utils\obj\Debug\net7.0\Utils.pdb
+D:\QA\C#\22. NugetPackage\Utils\obj\Debug\net7.0\ref\Utils.dll
+C:\Users\Windows 10\Desktop\Utils\bin\Debug\net7.0\Utils.deps.json
+C:\Users\Windows 10\Desktop\Utils\bin\Debug\net7.0\Utils.dll
+C:\Users\Windows 10\Desktop\Utils\bin\Debug\net7.0\Utils.pdb
+C:\Users\Windows 10\Desktop\Utils\obj\Debug\net7.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\Utils\obj\Debug\net7.0\Utils.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Utils\obj\Debug\net7.0\Utils.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Utils\obj\Debug\net7.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Utils\obj\Debug\net7.0\Utils.dll
+C:\Users\Windows 10\Desktop\Utils\obj\Debug\net7.0\refint\Utils.dll
+C:\Users\Windows 10\Desktop\Utils\obj\Debug\net7.0\Utils.pdb
+C:\Users\Windows 10\Desktop\Utils\obj\Debug\net7.0\ref\Utils.dll
+D:\QA\C#\Utils\bin\Debug\net7.0\Utils.deps.json
+D:\QA\C#\Utils\bin\Debug\net7.0\Utils.dll
+D:\QA\C#\Utils\bin\Debug\net7.0\Utils.pdb
+D:\QA\C#\Utils\obj\Debug\net7.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\Utils\obj\Debug\net7.0\Utils.AssemblyInfoInputs.cache
+D:\QA\C#\Utils\obj\Debug\net7.0\Utils.AssemblyInfo.cs
+D:\QA\C#\Utils\obj\Debug\net7.0\Utils.csproj.CoreCompileInputs.cache
+D:\QA\C#\Utils\obj\Debug\net7.0\Utils.dll
+D:\QA\C#\Utils\obj\Debug\net7.0\refint\Utils.dll
+D:\QA\C#\Utils\obj\Debug\net7.0\Utils.pdb
+D:\QA\C#\Utils\obj\Debug\net7.0\ref\Utils.dll
