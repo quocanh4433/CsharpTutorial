@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+w5v4X9tcJL+C47w7GyNV4PfLUKFSIOoXwifpzMzHJDvTONT7z9O3XIOtpFfOmq/9Opq9Rvba4Y+GmrncrA5Q==",
+  "success": true,
+  "projectFilePath": "D:\\QA\\C#\\26. HttpListener\\26. HttpListener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 10\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

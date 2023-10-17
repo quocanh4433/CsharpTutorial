@@ -1,0 +1,14 @@
+D:\QA\C#\24. HttpClient\bin\Debug\net7.0\24. HttpClient.exe
+D:\QA\C#\24. HttpClient\bin\Debug\net7.0\24. HttpClient.deps.json
+D:\QA\C#\24. HttpClient\bin\Debug\net7.0\24. HttpClient.runtimeconfig.json
+D:\QA\C#\24. HttpClient\bin\Debug\net7.0\24. HttpClient.dll
+D:\QA\C#\24. HttpClient\bin\Debug\net7.0\24. HttpClient.pdb
+D:\QA\C#\24. HttpClient\obj\Debug\net7.0\24. HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\24. HttpClient\obj\Debug\net7.0\24. HttpClient.AssemblyInfoInputs.cache
+D:\QA\C#\24. HttpClient\obj\Debug\net7.0\24. HttpClient.AssemblyInfo.cs
+D:\QA\C#\24. HttpClient\obj\Debug\net7.0\24. HttpClient.csproj.CoreCompileInputs.cache
+D:\QA\C#\24. HttpClient\obj\Debug\net7.0\24. HttpClient.dll
+D:\QA\C#\24. HttpClient\obj\Debug\net7.0\refint\24. HttpClient.dll
+D:\QA\C#\24. HttpClient\obj\Debug\net7.0\24. HttpClient.pdb
+D:\QA\C#\24. HttpClient\obj\Debug\net7.0\24. HttpClient.genruntimeconfig.cache
+D:\QA\C#\24. HttpClient\obj\Debug\net7.0\ref\24. HttpClient.dll

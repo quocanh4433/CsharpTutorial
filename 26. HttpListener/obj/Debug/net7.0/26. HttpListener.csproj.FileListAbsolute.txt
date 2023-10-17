@@ -1,0 +1,17 @@
+D:\QA\C#\26. HttpListener\bin\Debug\net7.0\26. HttpListener.exe
+D:\QA\C#\26. HttpListener\bin\Debug\net7.0\26. HttpListener.deps.json
+D:\QA\C#\26. HttpListener\bin\Debug\net7.0\26. HttpListener.runtimeconfig.json
+D:\QA\C#\26. HttpListener\bin\Debug\net7.0\26. HttpListener.dll
+D:\QA\C#\26. HttpListener\bin\Debug\net7.0\26. HttpListener.pdb
+D:\QA\C#\26. HttpListener\obj\Debug\net7.0\26. HttpListener.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\26. HttpListener\obj\Debug\net7.0\26. HttpListener.AssemblyInfoInputs.cache
+D:\QA\C#\26. HttpListener\obj\Debug\net7.0\26. HttpListener.AssemblyInfo.cs
+D:\QA\C#\26. HttpListener\obj\Debug\net7.0\26. HttpListener.csproj.CoreCompileInputs.cache
+D:\QA\C#\26. HttpListener\obj\Debug\net7.0\26. HttpListener.dll
+D:\QA\C#\26. HttpListener\obj\Debug\net7.0\refint\26. HttpListener.dll
+D:\QA\C#\26. HttpListener\obj\Debug\net7.0\26. HttpListener.pdb
+D:\QA\C#\26. HttpListener\obj\Debug\net7.0\26. HttpListener.genruntimeconfig.cache
+D:\QA\C#\26. HttpListener\obj\Debug\net7.0\ref\26. HttpListener.dll
+D:\QA\C#\26. HttpListener\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\QA\C#\26. HttpListener\obj\Debug\net7.0\26. HttpListener.csproj.AssemblyReference.cache
+D:\QA\C#\26. HttpListener\obj\Debug\net7.0\26. HttpListener.csproj.CopyComplete

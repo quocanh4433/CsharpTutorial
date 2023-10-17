@@ -1,0 +1,14 @@
+D:\QA\C#\25. HttpMessageHanldler\bin\Debug\net7.0\25. HttpMessageHanldler.exe
+D:\QA\C#\25. HttpMessageHanldler\bin\Debug\net7.0\25. HttpMessageHanldler.deps.json
+D:\QA\C#\25. HttpMessageHanldler\bin\Debug\net7.0\25. HttpMessageHanldler.runtimeconfig.json
+D:\QA\C#\25. HttpMessageHanldler\bin\Debug\net7.0\25. HttpMessageHanldler.dll
+D:\QA\C#\25. HttpMessageHanldler\bin\Debug\net7.0\25. HttpMessageHanldler.pdb
+D:\QA\C#\25. HttpMessageHanldler\obj\Debug\net7.0\25. HttpMessageHanldler.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\C#\25. HttpMessageHanldler\obj\Debug\net7.0\25. HttpMessageHanldler.AssemblyInfoInputs.cache
+D:\QA\C#\25. HttpMessageHanldler\obj\Debug\net7.0\25. HttpMessageHanldler.AssemblyInfo.cs
+D:\QA\C#\25. HttpMessageHanldler\obj\Debug\net7.0\25. HttpMessageHanldler.csproj.CoreCompileInputs.cache
+D:\QA\C#\25. HttpMessageHanldler\obj\Debug\net7.0\25. HttpMessageHanldler.dll
+D:\QA\C#\25. HttpMessageHanldler\obj\Debug\net7.0\refint\25. HttpMessageHanldler.dll
+D:\QA\C#\25. HttpMessageHanldler\obj\Debug\net7.0\25. HttpMessageHanldler.pdb
+D:\QA\C#\25. HttpMessageHanldler\obj\Debug\net7.0\25. HttpMessageHanldler.genruntimeconfig.cache
+D:\QA\C#\25. HttpMessageHanldler\obj\Debug\net7.0\ref\25. HttpMessageHanldler.dll
